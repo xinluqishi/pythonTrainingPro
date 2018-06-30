@@ -56,6 +56,8 @@ print(df.swaplevel().sortlevel())
 # print(df1.index)
 print(df.swaplevel())
 
+pd.merge
+
 
 
 
